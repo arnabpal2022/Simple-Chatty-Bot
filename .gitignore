@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea # project settings
+*.iml # editor settings
 
 ### Eclipse ###
 .apt_generated
